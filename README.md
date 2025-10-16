@@ -1,4 +1,4 @@
-## Hi there 👋
+## <p align="center"><a href="https://gyazo.com/0eb36d91de7396d47115274fb816dc4e"><img src="https://i.gyazo.com/0eb36d91de7396d47115274fb816dc4e.png" alt="Image from Gyazo"  width="500" height="500"/></a>
 
 <!--
 **jaenok/jaenok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
